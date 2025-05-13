@@ -1,10 +1,10 @@
-# 💼 Employee Management System (Java + MySQL)
+💼 Employee Management System (Java + MySQL)
 
-This is a simple **console-based Employee Management System** built using **Java** and **MySQL**, perfect for beginners and internship showcases.
+This is a simple console-based Employee Management System built using Java and MySQL, perfect for beginners and internship showcases.
 
 ---
 
-## 📌 Features
+📌 Features
 
 ✅ Add new employee  
 ✅ View all employees  
@@ -15,7 +15,7 @@ This is a simple **console-based Employee Management System** built using **Java
 
 ---
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - Java (JDK 17 or above)
 - MySQL (Workbench & JDBC connector)
@@ -24,20 +24,20 @@ This is a simple **console-based Employee Management System** built using **Java
 
 ---
 
-## 🧠 How to Run This Project
+ 🧠 How to Run This Project
 
-### 1. ✅ Prerequisites
+ 1. ✅ Prerequisites
 
 - Install Java JDK
 - Install MySQL Server & Workbench
 - Download the MySQL Connector JAR (e.g. `mysql-connector-j-8.3.0.jar`)
 
-### 2. 🔧 Setup
+ 2. 🔧 Setup
 
 - Open **MySQL Workbench**
 - Create a database:
 
-```sql
+sql:
 CREATE DATABASE employees_db;
 USE employees_db;
 
@@ -47,14 +47,11 @@ CREATE TABLE employee (
     department VARCHAR(50),
     salary DOUBLE
 );
-Update your EmployeeDAO.java file with your MySQL username and password.
+-> Update your EmployeeDAO.java file with your MySQL username and password.
 
 3. ▶️ Run the Project
 Open terminal in your project folder and execute:
 
-bash
-Copy
-Edit
 javac -cp .;mysql-connector-j-8.3.0.jar *.java
 java -cp .;mysql-connector-j-8.3.0.jar Main
 
