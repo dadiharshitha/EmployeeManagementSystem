@@ -64,4 +64,12 @@ java -cp .;mysql-connector-j-8.3.0.jar Main
 ![image alt](https://github.com/dadiharshitha/EmployeeManagementSystem/blob/7e4c705644461fe962f3868f5c9adb0f7ff1733b/EmpPic2.jpg)
 ![image alt](https://github.com/dadiharshitha/EmployeeManagementSystem/blob/de9ccd42a2f348ff8e7ff3a04cc5d114708043ff/EmpPic3.jpg)
 
+🙋‍♀️ Created By
+Harshitha Dadi
+B.Tech - Final Year (Information Technology)
+Linkedin : https://www.linkedin.com/in/harshitha-dadi-628477313/
 
+📌 Future Scope
+Convert this CLI app to a Java Web Application using Spring Boot + JSP
+Add authentication and role-based access
+Host it using Heroku / Render
