@@ -59,4 +59,6 @@ javac -cp .;mysql-connector-j-8.3.0.jar *.java
 java -cp .;mysql-connector-j-8.3.0.jar Main
 
 📂 Sample Screenshot of output:
-![Image](https://github.com/user-attachments/assets/0bba0518-efc6-435c-8432-177c851f34fb)
+
+
+![image alt] (https://github.com/dadiharshitha/EmployeeManagementSystem/blob/9e0922f43732d491b48462c0798ae35b72070e8b/EmpPic1.jpg)
