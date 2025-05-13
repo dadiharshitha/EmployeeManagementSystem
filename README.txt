@@ -60,7 +60,8 @@ java -cp .;mysql-connector-j-8.3.0.jar Main
 
 📂 Sample Screenshot of output:
 
-
 ![image alt] (https://github.com/dadiharshitha/EmployeeManagementSystem/blob/9e0922f43732d491b48462c0798ae35b72070e8b/EmpPic1.jpg)
 ![image alt](https://github.com/dadiharshitha/EmployeeManagementSystem/blob/7e4c705644461fe962f3868f5c9adb0f7ff1733b/EmpPic2.jpg)
-![image alt]()
+![image alt](https://github.com/dadiharshitha/EmployeeManagementSystem/blob/de9ccd42a2f348ff8e7ff3a04cc5d114708043ff/EmpPic3.jpg)
+
+
